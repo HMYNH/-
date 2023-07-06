@@ -1,0 +1,4 @@
+﻿  1.c
+E:\VS2022\23.7.5\7.5\1.c(53,8): warning C4305: “初始化”: 从“double”到“float”截断
+E:\VS2022\23.7.5\7.5\1.c(53,17): warning C4305: “初始化”: 从“double”到“float”截断
+  7.5.vcxproj -> E:\VS2022\23.7.5\x64\Debug\7.5.exe
